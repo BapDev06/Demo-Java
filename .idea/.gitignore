@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs & Temp
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# OS-specific
+.DS_Store
+Thumbs.db
